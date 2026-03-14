@@ -19,3 +19,5 @@ The application is developed using Android development technologies and focuses 
 
 # Purpose of the Project:
 This project was developed to demonstrate practical skills in Android application development, real-time communication systems, and mobile UI design.
+
+# Users can download and install the APK file to experience the TechMessenger chat application on their Android devices.
