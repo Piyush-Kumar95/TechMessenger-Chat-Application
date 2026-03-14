@@ -4,8 +4,8 @@ TechMessenger is a modern Android-based chat application designed to provide sea
 The application is developed using Android development technologies and focuses on delivering a smooth messaging experience with efficient data handling and secure communication.
 
 # Key Features:
-Real-time messaging between users
-User authentication and account management
-Clean and responsive Android UI
-Message storage and retrieval using backend/database integration
-Secure and efficient communication system
+-Real-time messaging between users
+-User authentication and account management
+-Clean and responsive Android UI
+-Message storage and retrieval using backend/database integration
+-Secure and efficient communication system
