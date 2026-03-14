@@ -9,3 +9,10 @@ The application is developed using Android development technologies and focuses 
 - Clean and responsive Android UI
 - Message storage and retrieval using backend/database integration
 - Secure and efficient communication system
+
+# Technologies Used: 
+- Java (Android Development)
+- Android Studio
+- Firebase / Backend Database (if used)
+- XML for UI Design
+- Git & GitHub for version control
